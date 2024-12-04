@@ -6,7 +6,7 @@ function Signup(){
         <div className="w-full flex sm:flex-col md:flex-col lg:flex-row justify-start items-start">
             {/* left */}
             <div className="sm:w-full md:w-full lg:w-[600px] sm:h-full lg:h-[500px] sm:m-0 sm:mt-10 lg:m-11 cursor-pointer">
-                <Image src={"/images/signup/mobile.png"}
+                <Image src={"/signup/mobile.png"}
                 width={400}
                 height={400}
                 alt="Mobile"
