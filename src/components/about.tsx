@@ -13,7 +13,7 @@ function About(){
                  </div>
              {/* right */}
             <div className="sm:w-full md:w-[600px]  cursor-pointer ">
-                <Image src={"/images/signup/fashion.png"}
+                <Image src={"/signup/fashion.png"}
                 width={400}
                 height={500}
                 alt="Mobile"

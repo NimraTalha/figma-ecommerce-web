@@ -3,7 +3,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {faTruckFast,faHeadphonesAlt,faCheckSquare} from '@fortawesome/free-solid-svg-icons';
 
 
-export default function Freedelvry(){
+export default function Freedelivery(){
     return(
         <div className="w-full sm:h-[500px] lg:h-[300px] flex justify-center items-center ">
             <div className="sm:w-[100%] lg:w-[70%] sm:justify-center gap-y-4 sm:items-center flex sm:flex-col md:flex-col lg:flex-row  lg:justify-evenly  gap-x-4 ">
